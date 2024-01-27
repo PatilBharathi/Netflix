@@ -1,9 +1,9 @@
-# Netflix
-Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries
+# OTT Platform
+Analyze the data and generate insights that could help OTT platform in deciding which type of shows/movies to produce and how they can grow the business in different countries
 
 Non-Graphical Analysis Insights
 
-1. The data given indicates Netfl ix has more movies when compared with TV shows
+1. The data given indicates Netflix has more movies when compared with TV shows
 2. The data is also incorrect for the duration fi eld because it cannot be null. The fi eld values for3 rows are swapped with the wrong column and the 3 rows are for the same cast    and directorwhich indicates faulty data
 3. The cast and director and country are unknown in some cases which can hinder furtheranalysis
 4. The date_added fi eld also has null values and it should not be possible because the fi eldindicates when content has been added to Netflix.
